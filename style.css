@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+}
+
+.form-container {
+  margin-bottom: 1rem;
+}
+
+.btn {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  background-color: rgb(96, 250, 155);
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+}
+
+.aside {
+  width: 40%;
+}
+
+.main {
+  width: 60%;
+}
+
+table {
+  width: 100%;
+  border: 1px solid black;
+}
